@@ -7,6 +7,8 @@
 
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Installing-Microsoft-SQL-Server-Images/main/Lab%20Diagram.png"/>
 
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Failed-Authentication-Log-Observation-Images/main/Lab%20Diagram.png"/>
+
 #
 <h3>Create the Windows Attack VM</h3>
 
