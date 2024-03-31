@@ -5,6 +5,8 @@
 - Create an attack VM to simulate an adversary to generate failed authentication logs on our honeynet VMs.
 - Observe the authentication logs on the honeynet VMs.
 
+<img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/Installing-Microsoft-SQL-Server-Images/main/Lab%20Diagram.png"/>
+
 #
 <h3>Create the Windows Attack VM</h3>
 
